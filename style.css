@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: brown;
+    font-size: 72px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn {
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100px;
+}
+
+button {
+    color: saddlebrown;
+    background-color: bisque;
+    border: 8px ridge brown;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 50px;
+    width: 200px;
+    height: auto;
+}
+
+.resultContainer {
+    display: flex;
+    color: white;
+    background-color: brown;
+    font-size: 32px;
+    margin-top: 30px;
+    padding: 50px;
+    justify-content: space-evenly;
+    align-items: center;
+}
